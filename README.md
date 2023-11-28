@@ -31,8 +31,8 @@
 ![Screenshot 2023-11-21 175633](https://github.com/sumanguna/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146914442/e8712b7d-07a9-4492-8e10-ce67523811ec)
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SUMAN.G
+### Register Number:23014256
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
